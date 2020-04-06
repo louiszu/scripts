@@ -1,5 +1,9 @@
 #!/bin/bash
 #
+#args1: 更新的项目 
+#args2: 更新镜像的tag
+#args3: docker-compose文件的路径位置
+
 #docker-compose文件的路径
 DOCKER_COMPOSE_FILE=$3
 
